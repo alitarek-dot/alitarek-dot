@@ -31,7 +31,7 @@
   - [From Gestures to Audio: A Dataset Building Approach for Egyptian Sign Language Translation to Arabic Speech](https://ieeexplore.ieee.org/document/10217562)
 
 ### Books and Associated projects:
-<a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/" target="_blank" rel="noreferrer"> <img src="https://learning.oreilly.com/library/cover/9781492041122/250w/" alt="pytorch" width="40" height="100"/>
+<a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/" target="_blank" rel="noreferrer"> <img src="https://learning.oreilly.com/library/cover/9781492041122/250w/" alt="pytorch" width="100" height="100"/>
 - [Data Science from Scratch, 2nd Edition by Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 
 ### Certificates
